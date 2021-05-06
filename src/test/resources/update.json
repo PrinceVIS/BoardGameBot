@@ -1,0 +1,35 @@
+{
+  "update_id": 603291055,
+  "message": {
+    "superGroupMessage": false,
+    "chatId": 447069249,
+    "groupMessage": false,
+    "userMessage": true,
+    "command": false,
+    "channelMessage": false,
+    "reply": false,
+    "message_id": 378,
+    "from": {
+      "bot": false,
+      "id": 447069249,
+      "first_name": "Vlad",
+      "is_bot": false,
+      "last_name": "Saprykin",
+      "username": "PrinceProgram",
+      "language_code": "ru"
+    },
+    "date": 1619623005,
+    "chat": {
+      "groupChat": false,
+      "userChat": true,
+      "superGroupChat": false,
+      "channelChat": false,
+      "id": 447069249,
+      "type": "private",
+      "first_name": "Vlad",
+      "last_name": "Saprykin",
+      "username": "PrinceProgram"
+    },
+    "text": "Анкета"
+  }
+}
